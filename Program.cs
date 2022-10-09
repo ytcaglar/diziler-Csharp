@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace karar_yapilari_switch_case
+namespace diziler_ve_kullanimi
 {
     class Program
     {
